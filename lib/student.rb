@@ -5,6 +5,10 @@ class Student
   end
 
   def learn(info)
-    
+
+  end
+
+  def knowledge
+    @knowledge
   end
 end
